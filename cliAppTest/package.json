@@ -1,0 +1,30 @@
+{
+  "name": "clinice",
+  "version": "1.0.0",
+  "description": "a test for a custom cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chennik/bestgaaf-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chennik/bestgaaf-/issues"
+  },
+  "homepage": "https://github.com/chennik/bestgaaf-#readme",
+  "dependencies": {
+    "async": "^3.1.0",
+    "chalk": "^3.0.0",
+    "clear": "^0.1.0",
+    "commander": "^4.0.1",
+    "csv": "^5.3.1",
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.0",
+    "path": "^0.12.7",
+    "sendgrid": "^5.2.3"
+  }
+}
