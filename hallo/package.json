@@ -1,0 +1,22 @@
+{
+  "name": "anna-maakt-een-bot",
+  "version": "1.0.0",
+  "description": "een chatbot die helemaal niets doet",
+  "main": "index.js ",
+  "scripts": {
+    "test": "test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chennik/bestgaaf-.git"
+  },
+  "keywords": [
+    "niks"
+  ],
+  "author": "helden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chennik/bestgaaf-/issues"
+  },
+  "homepage": "https://github.com/chennik/bestgaaf-#readme"
+}
