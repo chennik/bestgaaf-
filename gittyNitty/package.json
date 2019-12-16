@@ -1,0 +1,36 @@
+{
+  "name": "gittynitty",
+  "version": "1.0.0",
+  "description": "git cli tool on drugs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chennik/bestgaaf-.git"
+  },
+  "keywords": [
+    "git",
+    "cli"
+  ],
+  "author": "yannick van santen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chennik/bestgaaf-/issues"
+  },
+  "homepage": "https://github.com/chennik/bestgaaf-#readme",
+  "dependencies": {
+    "@octokit/rest": "^16.35.2",
+    "chalk": "^3.0.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "configstore": "^5.0.0",
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.1",
+    "lodash": "^4.17.15",
+    "minimist": "^1.2.0",
+    "simple-git": "^1.129.0",
+    "touch": "^3.1.0"
+  }
+}
