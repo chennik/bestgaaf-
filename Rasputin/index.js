@@ -26,8 +26,8 @@ client.on("ready", ()=> {
 
 client.on('message', msg => {
     if (msg.content === 'hit me') {
-        msg.reply('yes daddy');
-        msg.reply('how hard?');
+        msg.reply('There lived a certain man in Russia long ago, He was big and strong, in his eyes a flaming glow');
+       
 
     }
 
@@ -40,6 +40,10 @@ client.on('message', msg => {
 
     else if ( msg.content === "help"){
       msg.reply ("rasputin will be reposted every 12 hours, type rasputin if you cant wait this long");
+    }
+
+    else if ( msg.content === 'mythic') {
+        msg.reply( " here are the mythic plus affixes for this week :https://mythicpl.us/ ");
     }
 });
 
