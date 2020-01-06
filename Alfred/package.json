@@ -1,0 +1,24 @@
+{
+  "name": "alfred",
+  "version": "1.0.0",
+  "description": "a tea timer after the famous butler from batman ",
+  "main": "alfred.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chennik/bestgaaf-/tree/master/Alfred"
+  },
+  "keywords": [
+    "tea",
+    "timer",
+    "alfred"
+  ],
+  "author": "yannick van s",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^4.1.0",
+    "inquirer": "^7.0.2"
+  }
+}
