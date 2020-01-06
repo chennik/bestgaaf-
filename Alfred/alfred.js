@@ -15,3 +15,5 @@ if (program.debug) console.log(program.opts());
 console.log("Tea Type:");
 if (program.black) console.log("- Black tea !!");
 if (program.green) console.log("Green tea is also cool");
+if (program.mint) console.log("pretty minty");
+if (program.rooibos) console.log("Yikes");
