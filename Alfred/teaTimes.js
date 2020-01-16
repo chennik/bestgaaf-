@@ -12,6 +12,5 @@ exports.teaTypes = exports.teaTypes.map (function(i){
 }); 
 
 
- /*
+
  console.log(exports);
-*/
